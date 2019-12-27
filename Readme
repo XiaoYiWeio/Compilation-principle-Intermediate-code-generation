@@ -1,0 +1,12 @@
+
+
+for Tongji University
+
+Compilation Principle Job:Intermediate code generation
+
+generete :Three address code
+
+
+
+
+Add a semantic analyzer to the lexer and parser, convert the read C program into a quaternion, and output a three-address code
